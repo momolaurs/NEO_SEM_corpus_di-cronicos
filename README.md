@@ -4,7 +4,7 @@ Code repository for Laura Moset Estruch's paper titled "Neología Semántica y C
 
 ### Requirements
 
-The code is written using Python in Colab's version published on 2024-01-29. Thus, the authors recommend also using Colab for easier and better performance.
+The code is written using Python in Colab's version published on 2024-01-29. Thus, the author recommend also using Colab for easier and better performance.
 You can access the original Colab with this [link](https://colab.research.google.com/drive/1xgduDZjQ_HIF9fz_xCfnNqvxyjH7TEw-?usp=sharing).
 
 Packages required:
