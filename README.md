@@ -20,7 +20,7 @@ Packages required:
 
 ### Data attribution
 The data was obtained using Sketch Engine's corpora "Spanish Web 2011 (esTenTen11, Eu + Am)" and "Timestamped JSI web corpus 2021-22 Spanish".
-The .csv files are automatically downloaded when the code is run using _gdown_. 
+The .csv files are automatically downloaded when the code is run using _gdown_ in Colab or using the _descargar\_csv.py_ file. 
 >[!NOTE]
 >If there is any problem with the download, please feel free to contact the author at laura.moset01@estudiant.upf.edu.
 
